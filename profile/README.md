@@ -1,3 +1,6 @@
+![Elevate intro picture](https://www.elevate-agency.com/wp-content/uploads/2020/11/elevate-team-900x600.png)
+
+
 Elevate, agence conseil spécialiste en Data Marketing, Data & Tech et Consumer & Market Insights. Nous intervenons à la croisée du conseil et de la mise en oeuvre opérationnelle sur des projets Digital & Data en délivrant un accompagnement bout-en-bout.
 
 Elevate se positionne en tant que partenaire stratégique data de ses clients et rend possible leur transformation customer-centric par sa méthodologie data-driven reconnue.
