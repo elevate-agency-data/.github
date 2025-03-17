@@ -1,7 +1,7 @@
 # Hello Elevaters👋
 ------------------------------------------------------------------------------------------------------------
 
-![Elevate intro picture](https://www.elevate-agency.com/wp-content/uploads/2020/11/elevate-team-900x600.png)
+![Elevate intro picture](https://www.elevate-agency.com/wp-content/uploads/2025/03/ELEVATE-25-2000-V2-50.jpg)
 
 
 Elevate est un cabinet de conseil Data & IA de 180 consultants, intégré au groupe Humanskills et organisé en trois practices : Data Strategy, Data Marketing et Data & Tech.
