@@ -4,35 +4,35 @@
 ![Elevate intro picture](https://www.elevate-agency.com/wp-content/uploads/2020/11/elevate-team-900x600.png)
 
 
-Elevate, agence conseil spécialiste en Data Marketing, Data & Tech et Consumer & Market Insights. Nous intervenons à la croisée du conseil et de la mise en oeuvre opérationnelle sur des projets Digital & Data en délivrant un accompagnement bout-en-bout.
+Elevate est un cabinet de conseil Data & IA de 180 consultants, intégré au groupe Humanskills et organisé en trois practices : Data Strategy, Data Marketing et Data & Tech.
 
-Elevate se positionne en tant que **partenaire stratégique data de ses clients** et rend possible leur transformation customer-centric par sa méthodologie data-driven reconnue.
+Nous intervenons à la croisée du conseil et de la mise en œuvre opérationnelle sur des projets Data & IA en délivrant un accompagnement bout-en-bout auprès des DSI, Data Office ainsi qu'auprès des Directions Métiers des grands groupes du CAC40 et SBF120, 
 
-Nous accompagnons nos clients sur l’ensemble de la chaine de valeur Data Marketing, de la collecte en passant par l’unification, la visualisation, l’analyse et l’activation des données.
+Nous accélérons la mise en œuvre opérationnelle de cas d’usage variés - principalement en Sales & Marketing mais aussi en Supply Chain, Finance ou HR.
 
-Notre offre se décompose en 5 volets : 
+Elevate accompagne plus de 300 grandes entreprises de tous secteurs d’activité, depuis nos bureaux en France et à l’International.
 
-* **Conseil Data et Stratégie** : 
-Faire de la data et du digital un accélérateur business
-Use-cases, Gouvernance data, Conformité RGPD, Formation
+Nous combinons une prise de hauteur sur vos enjeux à une expertise opérationnelle
 
-* **Collecte & Architecture data**
-Collecter, unifier, structurer et visualiser une donnée analytics et marketing fiable
-KPI, Plan de marquage, Analytics, Dataviz, Datawarehouse & Datalakes
+**Data strategy : Nous accompagnons les décideurs dans la définition de leur Vision et Stratégie Data & IA**
 
-* **Expérience client** 
-Exploiter la data et les technologies pour délivrer des expériences clients uniques
-UX Analytics, AB testing & Personnalisation, CRM & Marketing Automation
+* Stratégie data : roadmap, identification de cas d’usage, management de transition,…
+* Organisation data : modèles organisationnels, upskilling, reskilling,…
+* Monétisation data : retail media, data sharing,…
+* Data & AI Maturity Assessment
+* Transformation & Change : Data & AI Day, Hackathon, formations,…
 
-* **Performance média** 
-Améliorer la performance média à travers l’exploitation de technologies marketing
-Mix-media modeling, Analyses attribution / contribution, Segmentation, Scoring
+**Data marketing :  Nous optimisons les performances marketing et commerciales grâce à la donnée**
 
-* **Social Listening & Analytics**
-Ecouter la voix du client là où elle s’exprime 
-Veille concurrentielle, Listening, Influenceurs, E-Reputation, Reporting & Analyses
+* Mesure d’audience : digital analytics, tracking, etc.
+* Personnalisation de l’expérience client : AB Testing, Personnalisation, E-Merchandising,...
+* Optimisation des campagnes publicitaires : MMM, Attribution/Contribution Marketing…
+* Segmentation client et scoring : RFM, clustering, machine learning
+* Dashboarding, Reporting, et Pilotage Omnicanal
 
-Nos expertises opérationnelles couvrent l’ensemble des problématiques data & tech de nos clients au sein de leurs équipes marketing, produit et IT. 
+**Data Tech : Nous accompagnons nos clients dans la conception, la mise en oeuvre, le passage à l’échelle et l'optimisation de leurs infrastructures techniques data et de leurs cas d’usage IA**
 
-Notre ADN nous pousse à être constamment à la pointe des sujets que nous adressons. 
-Pour cela, nos consultants accordent une part importante de leur temps à de la veille, de la formation ou de la R&D.
+* Construction de pipelines de données robustes et scalables
+* Mise en place d'architectures cloud modernes : GCP, AWS, Azure
+* Implémentation de solutions de gouvernance des données : qualité, sécurité, compliance
+* AI & Gen AI : Gen AI Factory, AI for : e-commerce, customer service, content…
